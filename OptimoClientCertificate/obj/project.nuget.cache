@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KoMx+Ev24XSJsTyade+xoddE+eIUEFV9YFMP34jbrByQTYvFbSlYwdpL/TjBoFoFw1VPtE754GXeYRH4yOG6HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\csr-generation-with-ecdsa\\OptimoClientCertificate\\OptimoClientCertificate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme.pereira\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\guilherme.pereira\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
